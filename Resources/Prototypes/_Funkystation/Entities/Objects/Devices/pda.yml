@@ -38,3 +38,6 @@
     accentVColor: "#DFDFDF"
   - type: Icon
     state: pda-seniordetective
+  - type: CartridgeLoader
+    preinstalled:
+    - LogProbeCartridge
